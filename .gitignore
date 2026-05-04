@@ -1,3 +1,4 @@
+.DS_Store
 venv/
 ollamaTest.py
 is_ai/
