@@ -20,4 +20,4 @@ Start:
 ```python3 monitor.py```
 
 #### Note:
-API Key is not used in this script, because of the goal of this script is to only grab the last 1 hour data, and will only run once every hour.
+This script is configured to run without an NVD API Key by default. Since the tool only requests the last 1 hour of data once per hour, it stays well within the NVD's public rate limits.
